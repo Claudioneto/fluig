@@ -1,0 +1,17 @@
+application.type=widget
+application.code=wdgDigitoCPF
+application.title=Gerador de CPF
+application.description=Gerador de CPF
+application.category=SYSTEM
+application.renderer=freemarker
+developer.code=ClaudioNeto
+developer.name=Claudio Neto
+developer.url=http://www.fluigutils.com
+application.uiwidget=true
+application.mobileapp=false
+application.version=${build.version}-${build.revision}
+view.file=view.ftl
+edit.file=edit.ftl
+locale.file.base.name=wdgDigitoCPF
+application.resource.js.1=/resources/js/wdgDigitoCPF.js
+application.resource.css.2=/resources/css/wdgDigitoCPF.css
